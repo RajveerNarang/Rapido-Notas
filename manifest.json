@@ -1,0 +1,14 @@
+{
+  "name": "Rapido-Notas",
+  "version": "0.0.1",
+  "description": "A Browser Extention to take Notes ",
+  "manifest_version": 3,
+  "author": "Rajveer Narang",
+  "icons": {
+    "16": "/icons/16.png"
+  },
+  "action": {
+    "default-popup": "Notas.js",
+    "default_title": "Note it Down"
+  }
+}
