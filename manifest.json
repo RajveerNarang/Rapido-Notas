@@ -8,7 +8,7 @@
     "16": "/icons/16.png"
   },
   "action": {
-    "default-popup": "Notas.js",
+    "default-popup": "notas.js",
     "default_title": "Note it Down"
   }
 }
